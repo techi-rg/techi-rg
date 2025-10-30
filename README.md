@@ -2,7 +2,7 @@
 
 🌟 **Software Engineer** with **3.8 years of professional experience** — including **2.8 years in Frontend/UI Development** (HTML, CSS, JavaScript, TailwindCSS, SASS, Bootstrap) and **1 year in a technical non-coding role**.  
 
-💻 Currently learning **Node.js** & backend development, and transitioning into **MERN Full-Stack Development** through **Coding Ninjas**.  
+💻 Currently learning **Node.js** & backend development, and transitioning into **MERN Full-Stack Development**  
 
 📈 Skilled at building **responsive, user-friendly applications** and bringing strong **problem-solving**, **adaptability**, and a **passion for continuous learning**.  
 
