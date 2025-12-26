@@ -28,6 +28,20 @@
 
 ---
 
+## 🎓 Certifications
+
+### 🧠 Soft Skills Training Certification  
+**Issued by:** Hablar × Coding Ninjas  
+
+- Professional Communication  
+- Emotional Intelligence  
+- Workplace Etiquette  
+- Confidence & Personality Development  
+
+🔗 [View Certificate](https://drive.google.com/file/d/1xxKdaE7dB6v19vPlKztKovEX0RVVkF0v/view)
+
+---
+
 ## 📊 GitHub Stats  
 
 ![Raginee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techi-rg&show_icons=true&theme=radical)  
